@@ -1,1 +1,3 @@
 Detta är en testfil i master-branchen
+
+En buggfix, bugg #2
